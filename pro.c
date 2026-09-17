@@ -14,7 +14,7 @@ int main()
     {
         printf("%d\n",arr[i]);
     }
-    printf(" the sum of element click 1,\n implementaion of array click 2,\n reverse the array click 3, \n deletion in array click 4,\n find the position of element click 5 ");
+    printf(" the sum of element click 1,\n implementaion of array click 2,\n reverse the array click 3, \n deletion in array click 4,\n find the position of element click 5\n= ");
        scanf("%d",&num);
        switch(num)
        {
